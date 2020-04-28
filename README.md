@@ -1,6 +1,6 @@
 # GnosisExplorer
 
-A multimedia shell that I created to host multimedia content like videos, html pages, OpenGL 3d models. 
+A desktop application shell that I created to host multimedia content like videos, html pages, OpenGL 3d models. I used Visual C++.
 
 http://www.paradoxinteractive.gr/portfolio-item/gnosis-explorer/
 
