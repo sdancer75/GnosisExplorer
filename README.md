@@ -1,3 +1,3 @@
 # GnosisExplorer
 
-![Image1](/pics/screenshot_1.png)
+![Image1](/pics/Screenshot_1.jpg)
